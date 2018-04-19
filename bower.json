@@ -6,7 +6,7 @@
     "Walter Vargas <walter@flux7.com>"
   ],
   "description": "Angular Schemaform file upload",
-  "main": "file-upload.min.js",
+  "main": "file-upload.js",
   "keywords": [
     "angular-schema-form",
     "angular",
